@@ -1,0 +1,35 @@
+.moviedetail{
+    background-color: #202020;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    align-items: center;
+    justify-content: space-around;
+    height: 100%;
+
+
+    div{
+        margin-right: 20px;
+        width: 35%;
+    }
+
+    img {
+        height: 50vw;
+        margin: 20px;
+    }
+
+    a{
+        text-decoration: none;
+        padding: 10px;
+        color: black;
+    }
+
+    button {
+        margin-top: 20px;
+        background-color: #eee;
+        border-radius: 5px;
+        color: black;
+        padding: 5px;
+
+    }
+}

@@ -1,0 +1,26 @@
+.moviecard {
+    padding: 10% 5%;
+    width: 92%;
+    border-radius: 10px;
+    text-align: center;
+
+    img{
+        max-width: 100%;
+    }
+
+    h3{
+        color: aliceblue;
+        margin-bottom: 20px;
+    }
+
+    .btn-details {
+        background-color: #eee;
+        border-radius: 5px;
+        color: black;
+        padding: 5px;
+    }
+
+    a{
+        text-decoration: none;
+    }
+}
